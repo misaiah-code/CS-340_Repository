@@ -1,1 +1,13 @@
 # CS-340_Repository
+
+**1. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+
+I ensure that my programs are maintainable, readable, and adaptable by making small, modular bits of code that use concise and clear naming conventions and consistent error handling. The CRUD Module is a great example of this; it's clear, reusable, and extremely flexible. I could potentially use my CRUD module in the future when developing mobile applications, API endpoints, data migrations tools, or more.
+
+**2. How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+
+As a computer scientist, my first step in approaching a problem is requirements gathering (where I understand exactly what I am expected to do, and what the client needs). I then move on to data modeling (where the database schema is designed), and start my iterative development process. If I find myself creating databases for clients in the future, I  will make sure that they're scalable (so that it can grow with the company), that they prioritize data integrity (that they have proper constraints and validation rules), and that they function with performance in mind.
+
+**3. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+
+Computer scientists analyze complex problems and reduce them into manageable components, design systems that efficiently process and present information, create tools that allow humans to do more, and work to bridge the gap between raw data and actionable insights. They transform how companies operate by improving efficiency, enabling data-driven decisions, and automating routine tasks, which work together to enable an organization to do far more than the maybe could have done before. For Grazioso Salvare, my work enableed them to have faster response times (through automatic filtering and geolocation), allowed them to better allocate their resources, and generally improved their outcomes and increased their efficiency. 
